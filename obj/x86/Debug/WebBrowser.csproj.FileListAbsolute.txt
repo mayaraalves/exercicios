@@ -1,0 +1,9 @@
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\WebBrowser.Form1.resources
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\WebBrowser.exe
+C:\Users\mayara Imaculada da\Documents\IFSP\3modulo\Willian\Aula1\WebBrowser\obj\x86\Debug\WebBrowser.pdb
